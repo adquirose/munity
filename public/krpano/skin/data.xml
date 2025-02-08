@@ -1,0 +1,224 @@
+ <krpano>
+        <data name="ficha1">
+      <h2>Lote Soler 1</h2>
+      <p>
+        Estado: vendido <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 56.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha2">
+      <h2>Lote Soler 2</h2>
+      <p>
+        Estado: reservado <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 56.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha3">
+      <h2>Lote Soler 3</h2>
+      <p>
+        Estado: Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 56.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha4">
+      <h2>Lote Soler 4</h2>
+      <p>
+        Estado: Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 56.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha5">
+      <h2>Lote Cardon 1</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha6">
+      <h2>Lote Cardon 2</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha7">
+      <h2>Lote Cardon 3</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha8">
+      <h2>Lote Cardon 4</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha9">
+      <h2>Lote Cardon 5</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha10">
+      <h2>Lote Cardon 6</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha11">
+      <h2>Lote Cardon 7</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha12">
+      <h2>Lote Cardon 8</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha13">
+      <h2>Lote Eterna 1</h2>
+      <p>
+        Estado: Vendido <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 66.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha14">
+      <h2>Lote Eterna 2</h2>
+      <p>
+        Estado: Vendido <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 66.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha15">
+      <h2>Lote Eterna 3</h2>
+      <p>
+        Estado: Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 66.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha16">
+      <h2>Lote Eterna 4</h2>
+      <p>
+        Estado: Reservado <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD: 66.000 <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha17">
+      <h2>Lote Eterna 5</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha18">
+      <h2>Lote Eterna 6</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha19">
+      <h2>Lote Eterna 7</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    <data name="ficha20">
+      <h2>Lote Eterna 8</h2>
+      <p>
+        Estado: No Disponible <br/>
+        <br/>  
+        Superficie: 2.035 m2 <br/>
+        <br/>                                                    
+        Precio USD:   <br/><br/> 
+Comprador:      
+     <br/> </p>
+    </data>
+    
+      </krpano>
+    

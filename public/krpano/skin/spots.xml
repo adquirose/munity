@@ -1,0 +1,25 @@
+<krpano>
+<spot  name="ficha1" estado="vendido"    html="S1" ath="-130.263" atv="33.229"     />
+<spot  name="ficha2" estado="reservado"    html="S2" ath="-130.592" atv="35.180"     />
+<spot  name="ficha3" estado="disponible"    html="S3" ath="-130.951" atv="37.049"     />
+<spot  name="ficha4" estado="disponible"    html="S4" ath="-131.379" atv="39.258"     />
+<spot  name="ficha5" estado="nodisponible"    html="C1" ath="72.160" atv="80.902"     />
+<spot  name="ficha6" estado="nodisponible"    html="C2" ath="63.775" atv="75.555"     />
+<spot  name="ficha7" estado="nodisponible"    html="C3" ath="59.219" atv="69.831"     />
+<spot  name="ficha8" estado="nodisponible"    html="C4" ath="57.001" atv="64.157"     />
+<spot  name="ficha9" estado="nodisponible"    html="C5" ath="55.742" atv="59.172"     />
+<spot  name="ficha10" estado="nodisponible"    html="C6" ath="54.602" atv="54.512"     />
+<spot  name="ficha11" estado="nodisponible"    html="C7" ath="53.800" atv="50.601"     />
+<spot  name="ficha12" estado="nodisponible"    html="C8" ath="53.529" atv="46.686"     />
+<spot  name="ficha13" estado="vendido"    html="E1" ath="53.488" atv="43.333"     />
+<spot  name="ficha14" estado="vendido"    html="E2" ath="53.084" atv="40.241"     />
+<spot  name="ficha15" estado="disponible"    html="E3" ath="52.568" atv="37.640"     />
+<spot  name="ficha16" estado="reservado"    html="E4" ath="52.220" atv="35.248"     />
+<spot  name="ficha17" estado="nodisponible"    html="E5" ath="52.160" atv="33.027"     />
+<spot  name="ficha18" estado="nodisponible"    html="E6" ath="52.226" atv="31.076"     />
+<spot  name="ficha19" estado="nodisponible"    html="E7" ath="52.099" atv="29.320"     />
+<spot  name="ficha20" estado="nodisponible"    html="E8" ath="52.061" atv="27.595"     />
+
+
+
+</krpano>
