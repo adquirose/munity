@@ -105,9 +105,9 @@ const Ficha = ({ dataLote = {}, setVisibleFicha, visibleFicha }) => {
             {/* <Image src={`images/fichas/foto${dataLote.html}.jpg`}/> */}
             <ContainerTitulo>
                 <Titulo>Lote {dataLote.nombreLote}</Titulo>
-                <Button $background="none" onClick={() => window.open(linkWs(dataLote.html),'blank')}>
+                {/* <Button $background="none" onClick={() => window.open(linkWs(dataLote.html),'blank')}>
                     <LogoWhatsapp fill="black" width="36" height="36"/>
-                </Button>
+                </Button> */}
             </ContainerTitulo>
             <ContainerText>
                 <P>Estado: { estado }</P>
