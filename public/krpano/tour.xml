@@ -72,15 +72,10 @@
      <style name="skin_hotspotstyle6" scale="0.4" handcursor="false" edge="bottom" align="bottom" alpha="1"/>
 
      
-     <style name="skin_hotspotstyle4" scale="0.5" handcursor="false" edge="bottomleft" align="bottom" alpha="1"/>
-       <style name="skin_hotspotstyle5" scale="0.5" handcursor="false" edge="bottomright" align="bottom" alpha="1"/>
-  
-
-
-	 <style name="lupa" scale="0.6" distorted="false" oy="0" handcursor="true" zorder="50" />
-
-
-	 <textstyle name="default"
+    <style name="skin_hotspotstyle4" scale="0.5" handcursor="false" edge="bottomleft" align="bottom" alpha="1"/>
+    <style name="skin_hotspotstyle5" scale="0.5" handcursor="false" edge="bottomright" align="bottom" alpha="1"/>
+  	<style name="lupa" scale="0.6" distorted="false" oy="0" handcursor="true" zorder="50" />
+	<textstyle name="default"
 
 
 
@@ -166,12 +161,6 @@
 
     <hotspot name="spot9" handcursor="false" style="skin_hotspotstyle2" url="skin/spots/colegio.png" onhover="showtext(School El Jardín del Mar · 25 min);" ath="146.380" atv="0.695"/>
     <hotspot name="spot10" handcursor="false" style="skin_hotspotstyle2" url="skin/spots/clinica.png" onhover="showtext(Hostpital Saint Jude · 26 min);" ath="144.266" atv="0.692"/>
-
-
-
-
-
-
 
 	</scene>
 
