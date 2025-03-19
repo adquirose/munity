@@ -104,6 +104,7 @@
             %4 == disponible, hotspot[%1].loadstyle(hs_pro_disponible),
             %4 == vendido, hotspot[%1].loadstyle(hs_pro_vendido),
             %4 == reservado, hotspot[%1].loadstyle(hs_pro_reservado),
+            %4 == nodisponible, hotspot[%1].loadstyle(hs_pro_nodisponible)
             
         );
         

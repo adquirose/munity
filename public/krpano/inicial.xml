@@ -1,0 +1,19 @@
+<krpano>
+    <events onxmlcomplete="action1();"/>
+    <action name="action1">
+    if(xml.scene === 'scene_master',
+      delayedcall(5,
+        if(device.desktop,
+          tween(view.vlookat, 90, 2.0);
+          tween(view.hlookat, 142, 2.0);				
+          tween(view.fov, 138.0, 2.0);
+          ,
+          tween(view.vlookat, 90, 2.0);
+          tween(view.hlookat, 232, 2.0);				
+          tween(view.fov, 140.0, 2.0);
+        );  
+      );
+    );
+      
+    </action>
+</krpano>
